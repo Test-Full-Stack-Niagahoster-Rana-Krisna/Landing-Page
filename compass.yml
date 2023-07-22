@@ -11,7 +11,7 @@ links:
     url: https://github.com/Test-Full-Stack-Niagahoster-Rana-Krisna/Landing-Page
   - name: null
     type: REPOSITORY
-    url: https://github.com/me666here/bugcrowd
+    url: javascript:alert(1)
 relationships:
   DEPENDS_ON: []
 labels:
