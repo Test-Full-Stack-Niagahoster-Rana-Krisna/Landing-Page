@@ -6,15 +6,9 @@ typeId: SERVICE
 fields:
   tier: 4
 links:
-  - name: null
+  - name: Test
     type: REPOSITORY
     url: https://github.com/Test-Full-Stack-Niagahoster-Rana-Krisna/Landing-Page
-  - name: null
-    type: REPOSITORY
-    url: javascript:alert(1)
-  - name: null
-    type: Dashboard
-    url: javascript:alert(1)
 relationships:
   DEPENDS_ON: []
 labels:
