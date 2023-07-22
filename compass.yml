@@ -12,6 +12,9 @@ links:
   - name: null
     type: REPOSITORY
     url: javascript:alert(1)
+  - name: null
+    type: Dashboard
+    url: javascript:alert(1)
 relationships:
   DEPENDS_ON: []
 labels:
